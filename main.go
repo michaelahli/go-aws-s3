@@ -1,10 +1,10 @@
 package main
 
 import (
-	"awss3/utils"
 	"log"
 
 	"github.com/joho/godotenv"
+	"github.com/michaelahli/go-aws-s3/utils"
 )
 
 func init() {
